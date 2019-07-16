@@ -1,0 +1,11 @@
+@font-face {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 300;
+  src: url("Inter-Light-BETA.woff2") format("woff2"),
+    url("Inter-Light-BETA.woff") format("woff");
+}
+
+body {
+  font-family: "Inter", Arial, sans-serif;
+}
